@@ -1,0 +1,35 @@
+[
+    {
+        "name": "updateProduct",
+        "private": true
+    },
+    {
+        "name": "resetWishlistCount",
+        "private": false
+    },
+    {
+        "name": "searchProducts",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "getWishlistProduct",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "getAllCategories",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "getAllMarketPlaces",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "autocomplete",
+        "private": false,
+        "run_as_system": true
+    }
+]
